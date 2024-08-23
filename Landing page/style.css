@@ -87,7 +87,7 @@ button:active{
 color: black; }
 
 input:focus{
-    background-color: rgb(255, 255, 255);
+    background-color:  rgb(110, 163, 212);
     border: 3px solid rgb(22, 10, 90);
 }
 
